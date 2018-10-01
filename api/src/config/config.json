@@ -1,0 +1,8 @@
+{
+  "graphqlEndpoint": "/",
+  "port": 3005,
+  "graphql": {
+    "ide": true,
+    "pretty": true
+  }
+}
